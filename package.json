@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "test": "mocha"
+    "test": "mocha ./test/**/*.js"
   },
   "dependencies": {
     "mocha": "^6.2.2"
